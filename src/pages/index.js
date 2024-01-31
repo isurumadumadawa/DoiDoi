@@ -18,11 +18,11 @@ export default function Home() {
       <TopCategories />
       <Trending />
       <BrandLogo />
-      <Discount />
-      <Advantage />
-      <NewArrivals />
+      {/* <Discount /> */}
+      {/* <Advantage /> */}
+      {/* <NewArrivals />
       <LatestNews />
-      <Subscribe />
+      <Subscribe /> */}
     </Layout>
   );
 }

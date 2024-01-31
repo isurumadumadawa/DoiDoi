@@ -30,31 +30,36 @@ export const Footer = () => {
               </ul>
             </div>
             <div className='footer-top__logo'>
-              <Link href='/'>
+              {/* <Link href='/'>
                 <a>
                   <img src={footerLogo} className='js-img' alt='' />
                 </a>
-              </Link>
+              </Link> */}
             </div>
 
             {/* Payment method */}
             <div className='footer-top__payments'>
-              <span>Payment methods:</span>
+              {/* <span>Payment methods:</span>
               <ul>
                 {paymentMethods.map((payment, index) => (
                   <li key={index}>
                     <img src={payment.icon} className='js-img' alt='' />
                   </li>
                 ))}
-              </ul>
+              </ul> */}
+               <Link href='/'>
+                <a>
+                  <img src={footerLogo} className='js-img' alt='' />
+                </a>
+              </Link>
             </div>
           </div>
-          <div className='footer-nav'>
+          {/* <div className='footer-nav'> */}
             {/* Footer Nav */}
-            {footerNav.map((nav, index) => (
+            {/* {footerNav.map((nav, index) => (
               <NavCol nav={nav} key={index} />
-            ))}
-            <div className='footer-nav__col'>
+            ))} */}
+            {/* <div className='footer-nav__col'>
               <span className='footer-nav__col-title'>Contact</span>
               <ul>
                 <li>
@@ -73,10 +78,10 @@ export const Footer = () => {
                   <a href='mailto:info@beshop.com'>info@beshop.com</a>
                 </li>
               </ul>
-            </div>
-          </div>
+            </div> */}
+          {/* </div> */}
           <div className='footer-copy'>
-            <span>&copy; All rights reserved. BeShop 2020</span>
+            <span>&copy; All rights reserved. Spark 2024</span>
           </div>
         </div>
       </footer>
