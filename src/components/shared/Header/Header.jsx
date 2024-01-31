@@ -45,7 +45,7 @@ export const Header = () => {
     <>
       {/* <!-- BEGIN HEADER --> */}
       <header className='header'>
-        {promo && (
+        {/* {promo && (
           <div className='header-top'>
             <span>30% OFF ON ALL PRODUCTS ENTER CODE: beshop2020</span>
             <i
@@ -53,7 +53,7 @@ export const Header = () => {
               className='header-top-close js-header-top-close icon-close'
             ></i>
           </div>
-        )}
+        )} */}
         <div className={`header-content ${fixedNav ? 'fixed' : ''}`}>
           <div className='header-logo'>
             <Link href='/'>
@@ -66,7 +66,7 @@ export const Header = () => {
             {/* Nav */}
             <Nav navItem={navItem} />
             {/* header options */}
-            <ul className='header-options'>
+            {/* <ul className='header-options'>
               <li>
                 <Link href='/faq'>
                   <a>
@@ -96,7 +96,7 @@ export const Header = () => {
                   </a>
                 </Link>
               </li>
-            </ul>
+            </ul> */}
           </div>
 
           <div
