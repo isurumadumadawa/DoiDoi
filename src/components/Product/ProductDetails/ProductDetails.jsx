@@ -93,11 +93,11 @@ export const ProductDetails = () => {
             </div>
             <div className='product-info'>
               <h3>{product.name}</h3>
-              {product.isStocked ? (
+              {/* {product.isStocked ? (
                 <span className='product-stock'>in stock</span>
               ) : (
                 ''
-              )}
+              )} */}
 
               <span className='product-num'>SKU: {product.productNumber}</span>
               {product.oldPrice ? (
@@ -125,7 +125,7 @@ export const ProductDetails = () => {
 
               {/* <!-- Product Color info--> */}
               <div className='product-options'>
-                <div className='product-info__color'>
+                {/* <div className='product-info__color'>
                   <span>Color:</span>
                   <ul>
                     {product?.colors.map((color, index) => (
@@ -137,10 +137,10 @@ export const ProductDetails = () => {
                       ></li>
                     ))}
                   </ul>
-                </div>
+                </div> */}
 
                 {/* <!-- Order Item counter --> */}
-                <div className='product-info__quantity'>
+                {/* <div className='product-info__quantity'>
                   <span className='product-info__quantity-title'>
                     Quantity:
                   </span>
@@ -168,9 +168,9 @@ export const ProductDetails = () => {
                       <i className='icon-arrow'></i>
                     </span>
                   </div>
-                </div>
+                </div> */}
               </div>
-              <div className='product-buttons'>
+              {/* <div className='product-buttons'>
                 <button
                   disabled={addedInCart}
                   onClick={() => handleAddToCart()}
@@ -181,14 +181,14 @@ export const ProductDetails = () => {
                 <button className='btn btn-grey btn-icon'>
                   <i className='icon-heart'></i> wish
                 </button>
-              </div>
+              </div> */}
             </div>
           </div>
 
           {/* <!-- Product Details Tab --> */}
           <div className='product-detail'>
             <div className='tab-wrap product-detail-tabs'>
-              <ul className='nav-tab-list tabs pd-tab'>
+              {/* <ul className='nav-tab-list tabs pd-tab'>
                 <li
                   className={tab === 1 ? 'active' : ''}
                   onClick={() => setTab(1)}
@@ -201,25 +201,25 @@ export const ProductDetails = () => {
                 >
                   Reviews
                 </li>
-              </ul>
+              </ul> */}
               <div className='box-tab-cont'>
-                {/* <!-- Product description --> */}
-                {tab === 1 && (
+               
+                {/* {tab === 1 && (
                   <div className='tab-cont'>
                     <p>{product.description}</p>
                     <p>{product.description}</p>
                   </div>
-                )}
+                )} */}
 
-                {tab === 2 && (
+                {/* {tab === 2 && (
                   <div className='tab-cont product-reviews'>
-                    {/* <!-- Product Reviews --> */}
+                   
                     <Reviews reviews={product.reviews} />
 
-                    {/* <!-- Product Review Form --> */}
+                    
                     <ReviewFrom />
                   </div>
-                )}
+                )} */}
               </div>
             </div>
           </div>

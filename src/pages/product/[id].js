@@ -8,10 +8,10 @@ const breadcrumbsData = [
     label: 'Home',
     path: '/',
   },
-  {
-    label: 'Shop',
-    path: '/shop',
-  },
+  // {
+  //   label: 'Shop',
+  //   path: '/shop',
+  // },
   {
     label: 'Product',
     path: '/product',
@@ -19,9 +19,9 @@ const breadcrumbsData = [
 ];
 const SingleProductPage = () => {
   return (
-    <PublicLayout breadcrumb={breadcrumbsData} breadcrumbTitle='Shop'>
+    <PublicLayout breadcrumb={breadcrumbsData} breadcrumbTitle='Products'>
       <ProductDetails />
-      <MostViewed additionalClass='product-viewed' />
+      {/* <MostViewed additionalClass='product-viewed' /> */}
     </PublicLayout>
   );
 };

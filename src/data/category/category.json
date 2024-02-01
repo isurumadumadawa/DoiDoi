@@ -1,32 +1,22 @@
 [
   {
-    "categoryId": "spa",
-    "name": "SPA",
+    "categoryId": "Foot Care & Therapy",
+    "name": "Foot Care & Therapy",
     "image": "/assets/img/top-categories-img1.jpg"
   },
   {
-    "categoryId": "nails",
-    "name": "Nails",
+    "categoryId": "Body Treatments & Massage",
+    "name": "Body Treatments & Massage",
     "image": "/assets/img/top-categories-img2.jpg"
   },
   {
-    "categoryId": "perfume",
-    "name": "Perfume",
+    "categoryId": "Facial & Eye Treatments",
+    "name": "Facial & Eye Treatments",
     "image": "/assets/img/top-categories-img3.jpg"
   },
   {
-    "categoryId": "makeup",
-    "name": "Make Up",
+    "categoryId": "Additional Enhancements",
+    "name": "Additional Enhancements",
     "image": "/assets/img/top-categories-img4.jpg"
-  },
-  {
-    "categoryId": "skin",
-    "name": "Skin",
-    "image": "/assets/img/top-categories-img5.jpg"
-  },
-  {
-    "categoryId": "hair",
-    "name": "Hair",
-    "image": "/assets/img/top-categories-img6.jpg"
   }
 ]

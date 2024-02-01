@@ -24,7 +24,7 @@ export const SingleProduct = ({
               </a>
             </Link>
             <div className='products-item__hover-options'>
-              <button className='addList' onClick={() => onAddToWish(id)}>
+              {/* <button className='addList' onClick={() => onAddToWish(id)}>
                 <i className='icon-heart'></i>
               </button>
               <button
@@ -33,7 +33,7 @@ export const SingleProduct = ({
                 onClick={() => onAddToCart(id)}
               >
                 <i className='icon-cart'></i>
-              </button>
+              </button> */}
             </div>
           </div>
         </div>

@@ -7,14 +7,14 @@ const breadcrumbsData = [
     path: '/',
   },
   {
-    label: 'Categories',
-    path: '/categories',
+    label: 'Services',
+    path: '/services',
   },
 ];
 const CategoriesPage = () => {
   return (
-    <PublicLayout breadcrumb={breadcrumbsData} breadcrumbTitle='Categories'>
-      <Category />
+    <PublicLayout breadcrumb={breadcrumbsData} breadcrumbTitle='Services'>
+      <Category isPage={true}/>
     </PublicLayout>
   );
 };
