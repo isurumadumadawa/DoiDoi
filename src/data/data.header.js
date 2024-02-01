@@ -13,7 +13,7 @@ export const navItem = [
   },
   {
     name: 'Services',
-    path: '/categories',
+    path: '/services',
   },
   { 
     name: 'Product',

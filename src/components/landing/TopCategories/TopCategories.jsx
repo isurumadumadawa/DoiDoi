@@ -9,19 +9,15 @@ export const TopCategories = () => {
       {/* <!-- BEGIN TOP CATEGORIES --> */}
       <section className='top-categories'>
         <SectionTitle
-          subTitle='Popular collections'
-          title='top categories'
-          body='Nourish your skin with toxin-free cosmetic products. With the offers that you can’t refuse.'
+          subTitle='Our Services For Pearl Bay'
+          title='What We Offer'
+          body='We keen to offer our clients a life time experience by pampering them in all luxuries, and peaceful surroundings which will leave them enthralling, feeling beauty inside and out.'
         />
         <div className='top-categories__items'>
           {<Categories categories={categories} />}
         </div>
       </section>
-      <section className='top-categories'>
-        <div className='top-categories__items'>
-          {<Categories categories={categories} />}
-        </div>
-      </section>
+     
       {/* <!-- TOP CATEGORIES EOF   --> */}
     </>
   );
