@@ -13,7 +13,7 @@ export const Info = () => {
       <div className='info-blocks'>
         <div
           className='info-blocks__item js-img'
-          style={{ backgroundImage: `url('/assets/img/info-item-bg1.jpg')` }}
+          style={{ backgroundImage: `url('./assets/img/info-item-bg1.jpg')` }}
         >
           <div className='wrapper'>
           <div className='info-blocks__item-text'>
@@ -38,11 +38,11 @@ export const Info = () => {
               </Link>
             </div>
             <div className='info-blocks__item-img'>
-              {/* <img
-                src='/assets/img/info-item-img1.jpg'
+              <img
+                src='./assets/img/info-item-img1.jpg'
                 className='js-img'
                 alt=''
-              /> */}
+              />
             </div>
           </div>
         </div>

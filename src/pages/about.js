@@ -22,9 +22,9 @@ const AboutPage = () => {
       <AboutDetailBlock />
       <AboutPromo />
       <AboutDiscount />
-      <Advantage />
-      <Testimonials />
-      <Subscribe />
+      {/* <Advantage /> */}
+      {/* <Testimonials />
+      <Subscribe /> */}
     </PublicLayout>
   );
 };

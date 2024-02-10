@@ -16,9 +16,9 @@ export const AboutPromo = () => {
       <section className='promo-video'>
         <div className='wrapper'>
           <SectionTitle
-            title='Welcome to BeShope'
+            title='Welcome to දො යි දො යි'
             subTitle='Promotion video'
-            body={`Today we can offer our customers exclusive products of 108 brands marked "only in BeShope"`}
+            body={`We are not just a formal spa where we take social responsibility as our prime obligation by forming revenue streams for different abled individuals. Since the most of our therapists are differently abled, one of our top objectives is to facilitate their well-being. We break disability barriers and celebrate their abilities."`}
           />
 
           <div className='promo-video__block'>
