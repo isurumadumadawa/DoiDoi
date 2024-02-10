@@ -292,7 +292,7 @@ h6,
 
 .trending {
   overflow-x: hidden;
-  padding-top: 180px;
+  padding-top: 80px;
   padding-bottom: 130px;
 
   &-top {
@@ -670,7 +670,7 @@ h6,
 // top-categories
 
 .top-categories {
-  padding-top: 14px;
+  padding-top: 60px;
   overflow: hidden;
 
   &__text {
@@ -790,7 +790,7 @@ h6,
 // info-blocks
 
 .info-blocks {
-  padding-top: 30px;
+  padding-top: 10px;
 
   &__item {
     display: flex;
@@ -928,12 +928,12 @@ h6,
 
     &-link {
       font-weight: bold;
-      font-size: 14px;
+      font-size: 20px;
       line-height: 100%;
       text-transform: uppercase;
       display: flex;
       align-items: center;
-      color: #222222;
+      color: #620928;
       margin-top: 35px;
 
       &:hover {
@@ -977,7 +977,7 @@ h6,
 
 .arrivals {
   overflow-x: hidden;
-  padding-top: 188px;
+  padding-top: 50px;
 
   .trending-top {
     margin-bottom: 58px;
@@ -1361,7 +1361,7 @@ h6,
 }
 
 .promo-video {
-  padding-top: 245px;
+  padding-top: 150px;
   margin-bottom: 185px;
   position: relative;
 

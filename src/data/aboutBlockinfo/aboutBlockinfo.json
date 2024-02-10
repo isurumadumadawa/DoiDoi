@@ -1,17 +1,17 @@
 [
   {
-    "step": "Free Shipping",
-    "title": "World wide",
-    "icon": "icon-shipping"
-  },
-  {
     "step": "Helpline",
-    "title": "+1 345 99 71 345",
+    "title": "+94 116131317",
     "icon": "icon-helpline"
   },
   {
-    "step": "Customer Support",
-    "title": "Finish!",
-    "icon": "icon-24"
+    "step": "Email",
+    "title": "Contact@doidoi.lk",
+    "icon": "icon-mail"
+  },
+  {
+    "step": "Location",
+    "title": "Division,Thalawathugoda",
+    "icon": "icon-map-pin-big"
   }
 ]

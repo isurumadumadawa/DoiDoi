@@ -10,9 +10,9 @@ export const MostViewed = ({ additionalClass }) => {
       {/* <!-- BEGIN MOST VIEWED --> */}
       <section className={`arrivals ${additionalClass ? additionalClass : ''}`}>
         <SectionTitle
-          subTitle='Cosmetics'
-          title='You Have Viewed'
-          body='Nourish your skin with toxin-free cosmetic products. With the offers that you can’t refuse.'
+          subTitle='Our Products'
+          title=''
+          body='We provide our own line of ITI-approved products along with widely researched Sri Lankan therapeutic approaches and customary ingredients.'
         />
 
         <div className='products-items'>

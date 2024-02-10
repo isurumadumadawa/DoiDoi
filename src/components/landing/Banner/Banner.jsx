@@ -13,9 +13,9 @@ export const Banner = () => {
             Pamper All Generations
             </h1>
 
-            <Link href='/shop'>
+            {/* <Link href='/shop'>
               <a className='btn'>Book now</a>
-            </Link>
+            </Link> */}
           </div>
         </div>
         <img

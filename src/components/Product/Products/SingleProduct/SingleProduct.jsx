@@ -11,10 +11,10 @@ export const SingleProduct = ({
     <>
       {/* <!-- BEING SINGLE PRODUCT ITEM --> */}
       <div className='products-item'>
-        <div className='products-item__type'>
+        {/* <div className='products-item__type'>
           {isSale && <span className='products-item__sale'>sale</span>}
           {isNew && <span className='products-item__new'>new</span>}
-        </div>
+        </div> */}
         <div className='products-item__img'>
           <img src={image} className='js-img' alt='' />
           <div className='products-item__hover'>
@@ -44,7 +44,7 @@ export const SingleProduct = ({
             </a>
           </Link>
           <span className='products-item__cost'>
-            <span>{oldPrice && `$${oldPrice}`}</span> ${price}
+            <span>{oldPrice && `RS ${oldPrice}`}</span>{`RS ${price}`}
           </span>
         </div>
       </div>
