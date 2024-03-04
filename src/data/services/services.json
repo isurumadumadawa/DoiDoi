@@ -75,7 +75,7 @@
     "categoryId": "Cut and Neat",
     "name": "Cut and Neat",
     "description":"Get a polished look with professional nail shaping and trimming.",
-    "image": "/assets/img/top-categories-img1.jpg"
+    "image": "./assets/img/top-categories-img1.jpg"
   },
   {
     "categoryId": "Cut and Massage",
