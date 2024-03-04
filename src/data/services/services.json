@@ -3,37 +3,37 @@
     "categoryId": "Foot Massage",
     "name": "Foot Massage",
     "description":"Soothe tired feet with expert pressure techniques promoting relaxation.",
-    "image": "./assets/img/top-categories-img1.jpg"
+    "image": "/assets/img/top-categories-img1.jpg"
   },
   {
     "categoryId": "Foot Scrub",
     "name": "Foot Scrub",
     "description":"Buff away rough skin and revitalize feet with nourishing exfoliation.",
-    "image": "./assets/img/top-categories-img2.jpg"
+    "image": "/assets/img/top-categories-img2.jpg"
   },
   {
     "categoryId": "Foot Mask",
     "name": "Foot Mask",
     "description":"Deeply hydrate and pamper feet with a targeted moisture treatment.",
-    "image": "./assets/img/top-categories-img3.jpg"
+    "image": "/assets/img/top-categories-img3.jpg"
   },
   {
     "categoryId": "Fish Therapy",
     "name": "Fish Therapy",
     "description":"Enjoy a unique experience as small fish nibble away dry skin on your feet.",
-    "image": "./assets/img/top-categories-img4.jpg"
+    "image": "/assets/img/top-categories-img4.jpg"
   },
   {
     "categoryId": "Pedicure",
     "name": "Pedicure",
     "description":"Treat yourself to professional nail care, shaping, and polishing for beautiful feet.",
-    "image": "./assets/img/top-categories-img1.jpg"
+    "image": "/assets/img/top-categories-img1.jpg"
   },
   {
     "categoryId": "Pressure point massage",
     "name": "Pressure point massage",
     "description":"Stimulate energy flow and promote balance with focused pressure on key points.",
-    "image": "./assets/img/top-categories-img2.jpg"
+    "image": "/assets/img/top-categories-img2.jpg"
   },
   {
     "categoryId": "Deep tissue Massage",
@@ -45,54 +45,54 @@
     "categoryId": "Head neck Shoulder massage",
     "name": "Head neck Shoulder massage",
     "description":"Melt away tension in upper body with targeted massage for stress relief.",
-    "image": "./assets/img/top-categories-img4.jpg"
+    "image": "/assets/img/top-categories-img4.jpg"
   },
   {
     "categoryId": "Hand massage",
     "name": "Hand massage",
     "description":"Improve circulation and soothe tired hands with a relaxing pressure treatment.",
-    "image": "./assets/img/top-categories-img1.jpg"
+    "image": "/assets/img/top-categories-img1.jpg"
   },
   {
     "categoryId": "Face massage",
     "name": "Face massage",
     "description":"Boost circulation and achieve radiant skin with a revitalizing facial massage.",
-    "image": "./assets/img/top-categories-img2.jpg"
+    "image": "/assets/img/top-categories-img2.jpg"
   },
   {
     "categoryId": "Eye reflexology treatment",
     "name": "Eye reflexology treatment",
     "description":"Relieve eye strain and fatigue by stimulating pressure points around the eyes.",
-    "image": "./assets/img/top-categories-img3.jpg"
+    "image": "/assets/img/top-categories-img3.jpg"
   },
   {
     "categoryId": "Eye mask",
     "name": "Eye mask",
     "description":"Cool and refresh your eyes with a soothing mask to reduce puffiness and promote relaxation.",
-    "image": "./assets/img/top-categories-img4.jpg"
+    "image": "/assets/img/top-categories-img4.jpg"
   },
   {
     "categoryId": "Cut and Neat",
     "name": "Cut and Neat",
     "description":"Get a polished look with professional nail shaping and trimming.",
-    "image": "./assets/img/top-categories-img1.jpg"
+    "image": "/assets/img/top-categories-img1.jpg"
   },
   {
     "categoryId": "Cut and Massage",
     "name": "Cut and Massage",
     "description":"Combine pampering nail care with a relaxing hand massage for ultimate indulgence.",
-    "image": "./assets/img/top-categories-img2.jpg"
+    "image": "/assets/img/top-categories-img2.jpg"
   },
   {
     "categoryId": "Body Mist",
     "name": "Body Mist",
     "description":"Immerse yourself in calming aromas with a personalized aromatherapy experience.",
-    "image": "./assets/img/top-categories-img3.jpg"
+    "image": "/assets/img/top-categories-img3.jpg"
   },
   {
     "categoryId": "Music Therapy",
     "name": "Music Therapy",
     "description":"Personalize your spa experience with calming music tailored to your needs.",
-    "image": "./assets/img/top-categories-img4.jpg"
+    "image": "/assets/img/top-categories-img4.jpg"
   }
 ]
